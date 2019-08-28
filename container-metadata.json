@@ -1,0 +1,11 @@
+{
+  "ernVersion": "0.37.3",
+  "jsApiImpls": [],
+  "miniApps": [
+    "file:/var/folders/f3/hz_snc7x3dzgpxdbbv0s11n00000gn/T/tmp-5636SR4F4AZVLFZQ"
+  ],
+  "nativeDeps": [
+    "react-native@0.59.10"
+  ],
+  "platform": "ios"
+}
